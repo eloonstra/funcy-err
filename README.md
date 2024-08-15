@@ -7,7 +7,7 @@
 To install the `funcy` package, you can use `go get`:
 
 ```sh
-go get github.com/yourusername/funcy
+go get github.com/eloonstra/funcy-err
 ```
 
 ### Functions
